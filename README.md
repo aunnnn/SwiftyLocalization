@@ -1,12 +1,14 @@
 # SwiftyLocalization
 A simple localization solution for iOS. Google Spreadsheets -> Localizable.strings -> Swift's struct.
 
+From Google Spreadsheet:
+![Alt text](/Screen Shot 2559-10-13 at 1.56.55 AM.png "Spreadsheet")
 
+To struct:
+![Alt text](/Screen Shot 2559-10-13 at 4.05.57 AM.png "generated struct")
 
 # Features
 ---
-
-
 - [x] Flexible localization with Google Spreadsheets - comment, color & fonts and much more
 - [x] Multiple Spreadsheets support - distinguish between pages/features/domains
 - [x] Generate Localizables.string - no more touching these files
@@ -17,10 +19,7 @@ A simple localization solution for iOS. Google Spreadsheets -> Localizable.strin
 <br>
 For Android:
 - [x] Generate value-lang/strings.xml (not thoroughly tested yet)
-- [] Generate a counterpart of Localizables.swift - a helper to decode and return localized String.
-
-
-<br>
+- [ ] Generate a counterpart of Localizables.swift - a helper to decode and return localized String.
 
 # Overview
 ---
