@@ -1,0 +1,26 @@
+key,en,th,fr,,(Note: I simply use google translate for fr)
+,,,,,
+VC,,,,,<-- you can use any row as a comment as long as some column is empty
+vc_title,Register here,สมัครสมาชิกที่นี่,Inscrivez-vous ici,,
+vc_detail,Please provide all required information.,กรุณากรอกข้อมูลให้ครบทุกช่อง,S'il vous plaît fournir toutes les informations requises.,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,<-- you can have any empty rows as you needed
+,,,,,
+,,,,,
+FORM,,,,,<-- you can use any font/color
+form_title_first_name,First name,ชื่อ,Prénom,,
+form_title_last_name,Last name,นามสกุล,nom de famille,,
+form_title_phone,Phone,เบอร์ติดต่อ,numéro de téléphone,,
+,,,,,
+form_button_register,Register,ลงทะเบียน,registre,,
+,,,,,
+form_alert_required_field,Required Field:,กรุณากรอก:,champs requis:,,
+form_alert_button_close,Close,ปิด,Fermer,,
+,,,,,
+form_hud_loading,Loading,กำลังโหลด,en cours,,
+,,,,,
+form_hud_account_ready,Your account is ready!,บัญชีของคุณพร้อมใช้งานแล้ว!,Your account is ready (in france),,<-- you can use highlight to remind unfinished rows
+,,,,,
+form_hud_please_wait,Please wait,โปรดรอสักครู่,,,"<-- or just leave an empty value, so that this row is completely ignored by python script"

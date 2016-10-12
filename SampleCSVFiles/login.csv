@@ -1,0 +1,6 @@
+key,en,th,fr,
+,,,,
+vc_title,Login,เข้าสู่ระบบ,s'identifier,<- You can also use highlight for unsure translation
+vc_detail,Fill username & password,กรอกข้อมูลให้ครบ,remplir le nom d'utilisateur et mot de passe,
+,,,,
+// Notice that you can use same key in different sheet (vc_title is both in 'register' and 'login') Because a generated key will be prepended by sheet name.,,,,

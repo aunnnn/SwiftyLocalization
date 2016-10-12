@@ -1,0 +1,37 @@
+
+
+
+/*  AUTO-GENERATED: 2016-10-13, 01:20 */
+
+
+
+
+/*  intro  */
+
+"intro_alert_title_success" = "Successfully logged in.";
+"intro_alert_title_ok" = "Ok";
+"intro_alert_title_close" = "Close";
+"intro_button_title_register" = "Register";
+"intro_text_hello" = "Hello";
+
+
+
+/*  login  */
+
+"login_vc_title" = "Login";
+"login_vc_detail" = "Fill username & password";
+
+
+
+/*  register  */
+
+"register_vc_title" = "Register here";
+"register_vc_detail" = "Please provide all required information.";
+"register_form_title_first_name" = "First name";
+"register_form_title_last_name" = "Last name";
+"register_form_title_phone" = "Phone";
+"register_form_button_register" = "Register";
+"register_form_alert_required_field" = "Required Field:";
+"register_form_alert_button_close" = "Close";
+"register_form_hud_loading" = "Loading";
+"register_form_hud_account_ready" = "Your account is ready!";

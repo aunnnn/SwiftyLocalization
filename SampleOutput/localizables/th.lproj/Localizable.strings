@@ -1,0 +1,37 @@
+
+
+
+/*  AUTO-GENERATED: 2016-10-13, 01:20 */
+
+
+
+
+/*  intro  */
+
+"intro_alert_title_success" = "คุณได้ล็อกอินเรียบร้อย";
+"intro_alert_title_ok" = "โอเค";
+"intro_alert_title_close" = "ปิด";
+"intro_button_title_register" = "สมัครสมาชิก";
+"intro_text_hello" = "สวัสดี";
+
+
+
+/*  login  */
+
+"login_vc_title" = "เข้าสู่ระบบ";
+"login_vc_detail" = "กรอกข้อมูลให้ครบ";
+
+
+
+/*  register  */
+
+"register_vc_title" = "สมัครสมาชิกที่นี่";
+"register_vc_detail" = "กรุณากรอกข้อมูลให้ครบทุกช่อง";
+"register_form_title_first_name" = "ชื่อ";
+"register_form_title_last_name" = "นามสกุล";
+"register_form_title_phone" = "เบอร์ติดต่อ";
+"register_form_button_register" = "ลงทะเบียน";
+"register_form_alert_required_field" = "กรุณากรอก:";
+"register_form_alert_button_close" = "ปิด";
+"register_form_hud_loading" = "กำลังโหลด";
+"register_form_hud_account_ready" = "บัญชีของคุณพร้อมใช้งานแล้ว!";

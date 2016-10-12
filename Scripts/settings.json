@@ -1,0 +1,19 @@
+{
+	"BASE_STRINGS_PATH": "currentdir",
+	"IN_PATH": "../SampleCSVFiles",
+	"OUT_PATH": "../SampleOutput/localizables",
+
+	"PLATFORM": "ios",
+	"LANG_KEYS": ["en", "th", "fr"],
+
+
+	"GEN_STRUCT_IF_IOS": true,
+
+	"GEN_STRUCT_BASE_PATH": "currentdir",
+	"GEN_STRUCT_OUT_PATH": "../SampleOutput/struct",
+	"GEN_STRUCT_FILENAME": "Localizables.swift",
+
+	"GEN_STRUCT_STRUCT_NAME": "Localizables",
+
+	"GEN_STRUCT_VALUE_RETRIEVAL": "\"{key}\".localized()"
+}
