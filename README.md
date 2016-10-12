@@ -89,6 +89,7 @@ Benefits
 * Having struct as an interface to localized strings allows us to:
   * Use autocomplete
   * Xcode won't compile if there's a wrong key in the project.
+
 ---
 :sweat_smile: Phews! That looks complicated and feels like homemade solution. But trust me, it's really worthwhile. Imagine this, that moment when you add a new key-value in a spreadsheet, click export csvFiles. Wait for them to sync on your local folder. And double click on main.command to update all files & struct with the latest version. Boom, that new key is avaiable instantly through Xcode Autocomplete!
 
