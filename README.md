@@ -8,13 +8,10 @@ To struct:
 ![Alt text](/Screen Shot 2559-10-13 at 4.05.57 AM.png "generated struct")
 
 # Features
----
 - [x] Flexible localization with Google Spreadsheets - comment, color & fonts and much more
 - [x] Multiple Spreadsheets support - distinguish between pages/features/domains
 - [x] Generate Localizables.string - no more touching these files
 - [x] :tada: Generate Localizables.swift - a struct that manages all keys, decode and return localized String. **No more wrong keys out of nowhere, the compiler catches them for you!**
-
-
 
 <br>
 For Android:
@@ -22,15 +19,14 @@ For Android:
 - [ ] Generate a counterpart of Localizables.swift - a helper to decode and return localized String.
 
 # Overview
----
-- Edit Google Spreadsheets,
-- Run Google Apps Script (for Spreadsheets -> csv files),
-- Sync with Google Drive app (for Syncing csv files from Drive to local folder)/ Or download csv files manually,
-- Run Python (for generating Localizable.strings & Localizables.swift).
-- Decode a key to return localized string.
+
+- Edit Google Spreadsheets
+- Spreadsheets -> csv files (Google App Script)
+- csv files -> local csv files (Synced by Google Drive app, or manually download)
+- local csv files -> Localizable.strings & Localizables.struct (Python script)
+
 
 # Steps
----
 1. Edit Google Spreadsheets. Look at a guideline [here.](https://docs.google.com/spreadsheets/d/1zB_tPPhUxbjB6sVpLmvgGVXdd-7d5mvfrOaCzgkhHv8/edit?usp=sharing)
 2. Export them to csv files with [Michael Derazon's Google script.](https://www.drzon.net/export-all-google-sheets-to-csv/) A slightly modified version is included here (google_sheets_export_csv.txt). Just copy to script editor and run it. After this, a folder named 'csvFiles' will waiting in your Drive folder. It contains all csv files from all sheets (sheetname.csv). Change the code, e.g. for folder names, as you need.
 3. (Optional) For quick development iteration:
@@ -93,6 +89,6 @@ Benefits
 ---
 :sweat_smile: Phews! That looks complicated and feels like homemade solution. But trust me, it's really worthwhile. Imagine this, that moment when you add a new key-value in a spreadsheet, click export csvFiles. Wait for them to sync on your local folder. And double click on main.command to update all files & struct with the latest version. Boom, that new key is avaiable instantly through Xcode Autocomplete!
 
-# Contribution
+Contribution
 ---
 All suggestions/helps are welcome!
