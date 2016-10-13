@@ -1,7 +1,7 @@
 # SwiftyLocalization
 A simple localization solution for iOS. Google Spreadsheets -> Localizable.strings -> Swift's struct.
 
-From Google Spreadsheet:
+From Google Spreadsheet (Live here: [example sheet](https://docs.google.com/spreadsheets/d/1zB_tPPhUxbjB6sVpLmvgGVXdd-7d5mvfrOaCzgkhHv8/edit#gid=1689234848)):
 ![Alt text](/Screen Shot 2559-10-13 at 1.56.55 AM.png "Spreadsheet")
 
 To struct:
