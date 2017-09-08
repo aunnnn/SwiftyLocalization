@@ -1,6 +1,8 @@
 # SwiftyLocalization
 A simple localization solution for iOS. Google Spreadsheets -> Localizable.strings -> Swift's struct.
 
+*Note: This project is quite old, it probably doesn't run out of the box (e.g., there will be bugs). You may use it just as an idea for a localization workflow. Or fork and fix it to suit your needs.*
+
 From Google Spreadsheet (Live here: [example sheet](https://docs.google.com/spreadsheets/d/1zB_tPPhUxbjB6sVpLmvgGVXdd-7d5mvfrOaCzgkhHv8/edit#gid=1689234848)):
 ![Alt text](/Screen Shot 2559-10-13 at 1.56.55 AM.png "Spreadsheet")
 
@@ -87,7 +89,7 @@ Benefits
   * Xcode won't compile if there's a wrong key in the project.
 
 ---
-:sweat_smile: Phews! That looks complicated and feels like homemade solution. But trust me, it's really worthwhile. Imagine this, that moment when you add a new key-value in a spreadsheet, click export csvFiles. Wait for them to sync on your local folder. And double click on main.command to update all files & struct with the latest version. Boom, that new key is avaiable instantly through Xcode Autocomplete!
+:sweat_smile: Phews! That looks complicated and feels like home-made solution. That's the nature any free solutions. But trust me, it's really worth the hassles. Imagine this, that moment when you add a new key-value in a spreadsheet, click export csvFiles. Wait for them to sync on your local folder. And double click on main.command to update all files & struct with the latest version. Boom, that new key is avaiable instantly through Xcode Autocomplete!
 
 Contribution
 ---
