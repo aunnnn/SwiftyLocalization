@@ -3,11 +3,14 @@ A simple localization solution for iOS. Google Spreadsheets -> Localizable.strin
 
 *Note: This project is quite old, it probably doesn't run out of the box (e.g., there will be bugs). You may use it just as an idea for a localization workflow. Or fork and fix it to suit your needs.*
 
-From Google Spreadsheet (Live here: [example sheet](https://docs.google.com/spreadsheets/d/1zB_tPPhUxbjB6sVpLmvgGVXdd-7d5mvfrOaCzgkhHv8/edit#gid=1689234848)):
-![Alt text](/Screen Shot 2559-10-13 at 1.56.55 AM.png "Spreadsheet")
+## From Google Spreadsheet (Live here: [example sheet](https://docs.google.com/spreadsheets/d/1zB_tPPhUxbjB6sVpLmvgGVXdd-7d5mvfrOaCzgkhHv8/edit#gid=1689234848)):
+![Alt text](https://raw.githubusercontent.com/aunnnn/SwiftyLocalization/master/Screen%20Shot%202559-10-13%20at%201.56.55%20AM.png "Online Sheet")
 
-To struct:
-![Alt text](/Screen Shot 2559-10-13 at 4.05.57 AM.png "generated struct")
+## To struct:
+
+![Alt text](https://raw.githubusercontent.com/aunnnn/SwiftyLocalization/master/Screen%20Shot%202559-10-13%20at%204.05.57%20AM.png "Generated Struct")
+
+Yes, no human deserves to make this struct themselves...
 
 # Features
 - [x] Flexible localization with Google Spreadsheets - comment, color & fonts and much more
